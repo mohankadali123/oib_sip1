@@ -6,22 +6,22 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background:rgb(245, 244, 244);
+    background:rgb(46, 178, 239);
 }
 
 #calc
 {
     background-color: #f7f3f3;
-    width: 35%;
+    width: 33%;
     height: 80vh;
     padding: 10px;
     border-radius: 8px;
-    box-shadow: 12px 12px 20px #aeb0b1 , -12px -12px 20px #ffffff;
+    box-shadow: 10px 10px 10px rgb(124, 129, 130);
 }
 .display #screen
 {
     margin-top: 30px;
-    width: 97%;
+    width: 92%;
     height: 90px;
     font-size: 35px;
     outline: none;
@@ -31,6 +31,7 @@ body
     background: rgb(178, 219, 250);
     border-radius: 6px;
     margin-bottom: 15px;
+    margin-left: 20px;
 }
 .buttons
 {
@@ -44,8 +45,8 @@ body
 
 .buttons .row button 
 {
-     width: 90px;
-     height: 80px;
+     width: 80px;
+     height: 75px;
      font-size: 20px;
      font-weight: 700;
      border: none;
@@ -53,7 +54,7 @@ body
      margin: 7px;
      background-color: rgb(241, 248, 254);
      border-radius: 6px;
-      box-shadow: 1px 1px 1px rgb(150, 148, 148),-2px -2px 4px white; */
+    box-shadow: 2px 2px 5px rgb(137, 135, 135);
 }
 
 #enterbut
