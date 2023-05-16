@@ -68,3 +68,12 @@ body
 {
     background-color: rgb(168, 210, 249);
 }
+
+.but:hover
+{
+    transform: scale(1.02) ;
+}
+.buttons .row  .but:active
+{
+    background-color: rgb(75, 110, 248);
+}
